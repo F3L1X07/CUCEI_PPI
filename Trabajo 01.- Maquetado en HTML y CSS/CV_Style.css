@@ -1,0 +1,17 @@
+#Foto {
+	background: lightblue;
+	border-radius: 50%;
+
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+
+    justify-content: center;
+    display: flex;
+}
+
+.debugger {
+	border-width: 2px;
+ 	border-style: solid;
+ 	border-color: red;
+}
